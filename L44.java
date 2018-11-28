@@ -7,4 +7,8 @@ package com.djrx.shangcheng;
  * Content:
  */
 public class L44 {
+    public static void main(String[] args){
+    
+    }
+    
 }
